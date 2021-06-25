@@ -27,7 +27,7 @@
 - [Hosted on Githack](https://rawcdn.githack.com/pipe2442/single-fetch-giphy-api/7ce51ab0adad50ae76e65213c06a76d9c7af201f/index.html)
 
 # Project Screenshot
-![screenshot](https://github.com/pipe2442/restaurantjs/blob/restaurant_feature/dist/assets/images/asiadragonscreen.PNG)
+![screenshot](https://github.com/pipe2442/single-fetch-giphy-api/blob/main/catapi.PNG)
 
 ## Authors
 
