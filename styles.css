@@ -1,0 +1,7 @@
+body {
+    font-family: 'Kirang Haerang', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
